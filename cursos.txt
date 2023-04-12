@@ -1,3 +1,5 @@
 Curso de Logística;
 Curso de Programação de Aplicativos;
-Curso de Desenvolvimento de Fofware.
+Curso de Desenvolvimento de Fofware;
+Curso de Eletrônica;
+Curso de IoT.

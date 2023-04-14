@@ -1,5 +1,5 @@
 Breno - Professor - 3.500;
 Leandro - Porteiro - 1.300;
 Rian - Diretor - 3.600;
-Robert - Professor - 4.000;
+
 Leticia - Merendeira - 2.000.
